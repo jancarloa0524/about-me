@@ -1,13 +1,22 @@
 # about-me
+
 <h1>Jan Carlo Avendano</h1>
 <hr>
+
 ## Email:
+
 jancarloa0524@hstat.org (school) / ajancarlo27@gmail.com (personal)
+
 ## School: 
+
 High School of Telecommunications Arts and Technology
+
 ## Bio: 
+
 Hi, I'm Jan, and I'm a student at HSTAT who is a part of the Softwre Engineering Program! 
+
 ## Scheduele
+
 1. Eat breakfast and:
     * Drop brother off at school (only on specific days).
     * Join first Zoom, complete assignments.
