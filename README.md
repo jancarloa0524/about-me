@@ -1,11 +1,10 @@
 # about-me
 
 <h1>Jan Carlo Avendano</h1>
-<hr>
 
 ## Email:
 
-jancarloa0524@hstat.org (school) / ajancarlo27@gmail.com (personal)
+jancarloa0524@hstat.org (school) / ajancarlo27@gmail.com (personal).
 
 ## School: 
 
