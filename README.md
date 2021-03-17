@@ -1,21 +1,31 @@
 # about-me
 
-<h1>Jan Carlo Avendano</h1>
+## Jan Carlo Avendano
 
-## Email:
+---
 
-jancarloa0524@hstat.org (school) / ajancarlo27@gmail.com (personal).
+**Email:**  
+jancarloa0524@hstat.org (_school_) / ajancarlo27@gmail.com (_personal_).  
 
-## School: 
+**School:**  
+High School of Telecommunications Arts and Technology  
 
-High School of Telecommunications Arts and Technology
+**Bio:**  
+Hi, I'm Jan, and I'm a student at HSTAT who is a part of the [Software Engineering Program](https://hstatsep.github.io/index.html)!
 
-## Bio: 
+**Favorite Video Games:** 
+1. Halo
+2. Half-Life
+3. Payday 2
 
-Hi, I'm Jan, and I'm a student at HSTAT who is a part of the Softwre Engineering Program! 
+**Favorite Foods, In No Particular Order:**  
+* Pizza
+    * White slice, Barbeque slice
+* Pasta
+    * Spaghetti and meatballs
+    * Lemon spaghetti with shrimp
 
-## Scheduele
-
+**Scheduele**  
 1. Eat breakfast and:
     * Drop brother off at school (only on specific days).
     * Join first Zoom, complete assignments.
