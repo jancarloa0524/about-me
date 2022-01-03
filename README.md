@@ -38,7 +38,7 @@ Hi, I'm Jan, and I'm a student at HSTAT who is a part of the [Software Engineeri
 4. Head off to Tae Kwon Do to teach/train. 
 5. Head home and eat dinner/shower/finish up remaining assignments/relax. 
 
-
+EXAMPLE EDIT
 
 
 
