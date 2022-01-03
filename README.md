@@ -39,7 +39,7 @@ Hi, I'm Jan, and I'm a student at HSTAT who is a part of the [Software Engineeri
 5. Head home and eat dinner/shower/finish up remaining assignments/relax. 
 
 EXAMPLE EDIT
-
+AHHAHAHHAHA I DID THIS WITH VSCODE LETS GOOOOOO
 
 
 review by Jacky Gee
